@@ -1,0 +1,24 @@
+.fonte-body {
+    font-family: 'Manjari', sans-serif;
+    text-align: justify;
+}
+
+.fonte-cursive {
+    font-family: 'Bad Script', cursive;
+    text-align: justify;
+}
+
+.fonte-header {
+    font-family: 'Bad Script', cursive;
+    font-size: x-large;
+    text-align: justify;
+}
+
+.bg-contato {
+    background-color: #0275d8;
+}
+
+.fonte-social {
+    font-size: 5ex;
+    color: white;
+}
