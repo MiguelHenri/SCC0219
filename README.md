@@ -4,8 +4,10 @@ Introduction to Web Development
 
 # 📖 Summary
 
-Practicing Web Development skills, such as coding in HTML, CSS (Bootstrap), JavaScript (Node, React).
+Practicing Web Development skills, such as coding in HTML, CSS (Bootstrap), and JavaScript (Node, React).
 
 # 🎮 Projects
 
-- `Project 1:` Using bootstrap (CSS + HTML) to create a responsive landing page.
+⚠️ Projects designed in class by Professor Bruna Rodrigues da Cunha ⚠️
+
+- `Project 1:` Using Bootstrap (CSS + HTML) to create a responsive landing page.
