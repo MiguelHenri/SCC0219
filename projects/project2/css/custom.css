@@ -1,0 +1,35 @@
+#potions-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.potion {
+    width: 350px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.potion img {
+    margin-top: 10px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.potion h2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.potion p {
+    margin-bottom: 10px;
+}
+
+.potion-price {
+    font-weight: bold;
+}
