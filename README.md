@@ -1,15 +1,14 @@
-# 💻 SCC0219
+# 💻 Web Development
 
-Introduction to Web Development
+Project made for Introduction to Web Development (SCC0219), ICMC-USP.
+> Projects designed and proposed in class by Professor Bruna Rodrigues da Cunha
 
-# 📖 Summary
+## 📖 Summary
 
-Practicing Web Development skills, such as coding in HTML, CSS (Bootstrap), and JavaScript (Node, React).
+Practicing Web Development skills, such as coding in HTML, CSS (Bootstrap), and JavaScript.
 
-# 🎮 Projects
-
-⚠️ Projects designed and proposed in class by Professor Bruna Rodrigues da Cunha ⚠️
+## 🎮 Projects
 
 - `Project 1:` Using [Bootstrap](https://getbootstrap.com/) (CSS + HTML) to create a responsive landing page.
 
-- `Project 2:` Using JS [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch) to request data from a Web Service and creating a only-view potion store.
+- `Project 2:` Using JS [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch) to request data from a Web Service and creating an only-view potion store.
